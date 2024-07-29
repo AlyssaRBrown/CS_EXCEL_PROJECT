@@ -1,11 +1,15 @@
 
 # Exploratory Data Analysis Using EXCEL TO FULFILL BUSINESS CASE
 
-<img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:400x600/rscb10/ng:webp/ngcb9">
 
 ## **Introduction**
-Every year the website StackOverflow.com sends out a survey to the web developers that use their site.  This is always a large dataset and interesting to explore. There is traditionally a synopsis and visual of the findings but I thought I would take a crack at it.
+This project is to display the use of several excel tools in order to analyze the data and answer questions the project manager has in order to create a business case. 
 
+
+
+
+
+<img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:400x600/rscb10/ng:webp/ngcb9">
 ## **Questions**
 I went into this analysis with a few questions on the forefront.
 1. What Countries are being represented?
