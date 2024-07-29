@@ -3,7 +3,7 @@
 
 
 ## BUSINESS CASE 
-<img src=h "ttps://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:657x687/rscb10/ng:webp/ngcb9">
+<img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:657x687/rscb10/ng:webp/ngcb9">
 
 ## **Introduction**
 Every year the website StackOverflow.com sends out a survey to the web developers that use their site.  This is always a large dataset and interesting to explore. There is traditionally a synopsis and visual of the findings but I thought I would take a crack at it.
