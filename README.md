@@ -1,8 +1,6 @@
 
 # Exploratory Data Analysis Using EXCEL TO FULFILL BUSINESS CASE
 
-
-## BUSINESS CASE 
 <img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:657x687/rscb10/ng:webp/ngcb9">
 
 ## **Introduction**
