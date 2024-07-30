@@ -21,7 +21,7 @@ Ticket Priority: The priority level assigned to the ticket (e.g., low, medium, h
 Ticket Channel: The channel through which the ticket was raised (e.g., email, phone, chat, social media).
 First Response Time: The time taken to provide the first response to the customer.
 Time to Resolution: The time taken to resolve the ticket.
-Customer Satisfaction Rating: The customer's satisfaction rating for closed tickets (on a scale of 1 to 5).In this Excel dashboard, several conclusions can be made by toggling through different fields.
+Customer Satisfaction Rating: The customer's satisfaction rating for closed tickets (on a scale of 1 to 5).
 
 
 ##Modifications 
