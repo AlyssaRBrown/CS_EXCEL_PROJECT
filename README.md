@@ -1,17 +1,13 @@
 
 # Exploratory Data Analysis Using EXCEL TO FULFILL BUSINESS CASE
-
+*This is a fictional project created to show my extensive skillset in data and business analysis.
 
 ## **Introduction**
-###This is a fictional project created to show my aptitude in data and business analysis. 
+ 
 
-is to display the use of several excel tools in order to analyze the data and answer questions the project manager has in order to create a business case. 
+This project is a detailed analysis of a customer service data set obtained from Kaggele.  In this Excel dashboard, several conclusions can be made by toggling through different fields. Below I have answered several key questions asked of me by the project manager as well as laid out a detailed step-by-step snapshot of the data cleaning and visualization process. This dashboard is made solely to provide information to stakeholders to support the business case shown below.  
 
-
-
-
-
-<img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:400x600/rscb10/ng:webp/ngcb9">
+<img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:600x600/rscb10/ng:webp/ngcb9">
 ## **Questions**
 I went into this analysis with a few questions on the forefront.
 1. What Countries are being represented?
