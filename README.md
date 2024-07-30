@@ -3,7 +3,9 @@
 
 
 ## **Introduction**
-This project is to display the use of several excel tools in order to analyze the data and answer questions the project manager has in order to create a business case. 
+###This is a fictional project created to show my aptitude in data and business analysis. 
+
+is to display the use of several excel tools in order to analyze the data and answer questions the project manager has in order to create a business case. 
 
 
 
