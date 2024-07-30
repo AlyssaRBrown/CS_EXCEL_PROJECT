@@ -5,7 +5,7 @@
 ## **Introduction**
  
 
-This project is a detailed analysis of a customer service data set obtained from Kaggele.  In this Excel dashboard, several conclusions can be made by toggling through different fields. Below I have answered several key questions asked of me by the project manager as well as laid out a detailed step-by-step snapshot of the data cleaning and visualization process. This dashboard is made solely to provide information to stakeholders to support the business case shown below.  
+This project is a detailed analysis of a customer service data set obtained from Kaggele.  In this Excel dashboard, several conclusions can be made by toggling through different fields. Below I have answered several key questions asked of me by the project manager as well as laid out a detailed step-by-step snapshot of the data cleaning and visualization process. This dashboard is made solely to provide information to stakeholders to support the business case shown.  
 
 <img src= "https://expertprogrammanagement.com/wp-content/uploads/2017/06/Project-Business-Case-Example.png?ezimgfmt=rs:600x600/rscb10/ng:webp/ngcb9">
 ## **Questions**
