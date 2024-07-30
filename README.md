@@ -43,7 +43,9 @@ Customer Satisfaction Rating: The customer's satisfaction rating for closed tick
 
 
 ##  **Modifications**
-Find and Replace tool: All tickets were set to "closed" to simulate the correct environment for the business case. The null dates of the resolution were set to Saturday, June 3rd. 
+Find and Replace tool: All tickets were set to "closed" to simulate the correct environment for the business case. The null (Blank) dates of resolution were set to Saturday, June 3rd. 
+
+Workbook Insertion: A seperate table was created in a new workbook of all customers and their yearly total spent with the company for 2023 and 2024. 
 
 Random Number Generator formula: Yearly "total amount spent at the company" columns were inserted to compare any potential purchase changes after the customer service inquiry. These numbers were then set in stone to ensure they did not recalculate once the foormula was re-run. 
 
@@ -65,6 +67,7 @@ Here are the questions the project manager asked I answer:
 4. What is the average customer service rating based on the original inquiry?
 5. What product caused the most customer support inquiries?
 6. What is the most common issue?
+7. What age range experienced the most dissatisfaction with the company?
 
 
 
