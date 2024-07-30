@@ -5,7 +5,9 @@
 ## **Introduction**
  
 
-This project is a detailed analysis of a customer service data set obtained from Kaggele(https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) with some motifications by me. This data set contains:
+This project is a detailed analysis of a customer service data set obtained from Kaggele with some modifications by me. Before the business case was created the company realized the revenue was decreasing and wondered if there was a correlation between the customer service complaints and revenue. The company then provided me with this data set to analyze and draw conclusions from. After taking a look at the data the project manager realized that there might be more conclusions to draw.  
+
+This data set contains:
 Customer Age: The age of the customer.
 Customer Gender: The gender of the customer.
 Product Purchased: The most recent tech product purchased by the customer.
@@ -38,22 +40,29 @@ Below I have answered several key questions asked of me by the project manager a
 ## **Questions**
 
 Here are the questions the project manager asked I answer:
-1. What percentage of cases are resolved?
+1. What percentage of cases take longer than the businesses one day target?
 2. What percentage of cases are completed over the weekend costing the company more in overtime hours?
-3. What percentage of sales were lost the following year for every customer who had an issue?
+3. What percentage of sales were lost the following year for every customer who had an issue overall?
 4. What is the average customer service rating based on the original inquiry?
-5. What is the Work location distribution for Respondents?
-6. How varied are the salaries versus experience?
+5. What product caused the most customer support inquiries?
+6. What is the most common issue?
+
+
+
 
 ## **Process**
-I used Python Jupyter Notebook to load the data in csv format.  I then set out to systematically address all questions presented initially to gain some insigths from this survey data.  Using Pandas, I created a dataframe and made the display more user-friendly.  After formatting the data, I went back and created some visuals using seaborn and matplotlib.
+
+
+##Modifications 
+1. All tickets were set to "closed" to simulate the correct environment for the business case. The null dates of the resolution were set to Saturday, June 3rd. This was done using the find and replace tool. 
+2. A yearly "total amount spent at the company" table was inserted and created by me to compare any potential purchase changes after the customer service inquiry. This was done using 
 
 <img src= "https://github.com/BrianHarrisCodes/Project/blob/main/Portfolio_Projects/2_Survey_EDA/images/age_bar.png">
 
 
 ## **Data Source**
 
-The data was located here: [https://insights.stackoverflow.com/survey/](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
+The data was located here: https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
 
 ## **Conclusion**
 
