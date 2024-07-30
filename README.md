@@ -24,7 +24,7 @@ Time to Resolution: The time taken to resolve the ticket.
 Customer Satisfaction Rating: The customer's satisfaction rating for closed tickets (on a scale of 1 to 5).
 
 
-##Modifications 
+##  **Modifications**
 All tickets were set to "closed" to simulate the correct environment for the business case. The null dates of the resolution were set to Saturday, June 3rd. This was done using the find and replace tool. 
 Yearly "total amount spent at the company" columns were inserted to compare any potential purchase changes after the customer service inquiry. This was done using 
 
