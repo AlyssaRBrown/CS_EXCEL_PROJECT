@@ -5,7 +5,11 @@
 ## **Introduction**
  
 
-This project is a detailed analysis of a customer service data set obtained from Kaggele with some modifications by me. Before the business case was created the company realized the revenue was decreasing and wondered if there was a correlation between the customer service complaints and revenue. The company then provided me with this data set to analyze and draw conclusions from. After taking a look at the data the project manager realized that there might be more conclusions to draw.  
+This project is a detailed analysis of a customer service data set obtained from Kaggele with some modifications by me. This data set was specifically chosen to showcase my ability not only to clean data but also my proficiency in Excel as a whole. 
+This analysis occurred before the business case was created.
+
+## **Problem Prospective **
+The company realized its revenue was decreasing! The other analysts had heard about the understaffed customer service department and wondered if there was a correlation. The company then provided me with this data set to analyze and draw conclusions from. After taking a look at the data the project manager realized that there might be more conclusions to draw.  
 
 This data set contains:
 Customer Age: The age of the customer.
@@ -25,8 +29,9 @@ Customer Satisfaction Rating: The customer's satisfaction rating for closed tick
 
 
 ##  **Modifications**
-All tickets were set to "closed" to simulate the correct environment for the business case. The null dates of the resolution were set to Saturday, June 3rd. This was done using the find and replace tool. 
-Yearly "total amount spent at the company" columns were inserted to compare any potential purchase changes after the customer service inquiry. This was done using 
+Find and Replace tool: All tickets were set to "closed" to simulate the correct environment for the business case. The null dates of the resolution were set to Saturday, June 3rd. 
+
+Random Number Generator formula: Yearly "total amount spent at the company" columns were inserted to compare any potential purchase changes after the customer service inquiry. These numbers were then set in stone to ensure they did not recalculate once the foormula was re-run. 
 
 
 
