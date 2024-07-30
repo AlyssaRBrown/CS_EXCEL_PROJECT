@@ -12,19 +12,33 @@ This analysis occurred before the business case was created.
 The company realized its revenue was decreasing! The other analysts had heard about the understaffed customer service department and wondered if there was a correlation. The company then provided me with this data set to analyze and draw conclusions from. After taking a look at the data the project manager realized that there might be more conclusions to draw.  
 
 This data set contains:
+
 Customer Age: The age of the customer.
+
 Customer Gender: The gender of the customer.
+
 Product Purchased: The most recent tech product purchased by the customer.
+
 Date of Purchase: The date when the product was purchased.
+
 Ticket Type: The type of ticket (e.g., technical issue, billing inquiry, product inquiry).
+
 Ticket Subject: The subject/topic of the ticket.
+
 Ticket Description: The description of the customer's issue or inquiry.
+
 Ticket Status: The status of the ticket (e.g., open, closed).
+
 Resolution: The resolution or solution provided for closed tickets.
+
 Ticket Priority: The priority level assigned to the ticket (e.g., low, medium, high, critical).
+
 Ticket Channel: The channel through which the ticket was raised (e.g., email, phone, chat, social media).
+
 First Response Time: The time taken to provide the first response to the customer.
+
 Time to Resolution: The time taken to resolve the ticket.
+
 Customer Satisfaction Rating: The customer's satisfaction rating for closed tickets (on a scale of 1 to 5).
 
 
